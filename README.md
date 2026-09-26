@@ -1,6 +1,6 @@
 ## 
 This is a simple uni proyect for my circuits class implementing the "Tableu" method from this .csv template reprensenting constant power source values and resistors that follow OHM's law. 
 
-<img src="Tableu-csv.png">
+<img src="docs/img/Tableu-csv.png" width="300">
 
 It will be using the Open source library "Eigen 5.0.0" (licenced under MPL2) for the management of Matrix and vector operations.
